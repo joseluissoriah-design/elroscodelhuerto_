@@ -1,0 +1,15 @@
+El Rosco del Huerto
+===================
+Abre index.html en el navegador (doble clic). No necesita servidor ni instalación.
+
+Estructura:
+  index.html       Página
+  css/styles.css   Estilos (incluye modo oscuro automático)
+  js/app.js        Lógica del juego y contenido (array ITEMS y TEA)
+  images/          Logo y favicon (SVG)
+
+Versión con apoyos visuales (TEA): selecciónala en la pantalla inicial
+o abre index.html#tea
+
+Nota: las tipografías Fredoka y Nunito se cargan desde Google Fonts.
+Sin internet el juego funciona igual con la tipografía del sistema.
